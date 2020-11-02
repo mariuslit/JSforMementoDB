@@ -1,3 +1,16 @@
+function sleep(milliseconds) {
+  const date = Date.now();
+  let currentDate = null;
+  do {
+    currentDate = Date.now();
+  } while (currentDate - date < milliseconds);
+}
+
+
+
+//_________________________________
+
+// kai perkelsiu į colors.js tolesnes funkcijas ištrinti
 function TraditionalColors(d) {
   var ats = "";
   var white = "#ffffff";
