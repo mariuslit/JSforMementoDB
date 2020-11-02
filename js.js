@@ -82,6 +82,5 @@ function MaterialColorsVaterDrink(d) {
   "#4FC3F7",
   "#2962FF"
   ][d];
-  
 }
 
