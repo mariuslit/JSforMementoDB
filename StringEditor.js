@@ -74,6 +74,22 @@ function MenesiuZodziuTrump(m) {
 	"Gru"][m];
 }
 
+function MenesiuZodziuLTrump(m) {
+	return ["", 
+	"Sa", 
+	"Va", 
+	"Ko", 
+	"Ba", 
+	"Ge", 
+	"Bi", 
+	"Li", 
+	"Rp", 
+	"Rs", 
+	"Sp", 
+	"La", 
+	"Gr"][m];
+}
+
 function getItemTestMemory(x) {
 	return ArrTestMemory()[x];
 }
