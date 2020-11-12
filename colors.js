@@ -1,7 +1,8 @@
 // failas skirtas spalvų paletėms
 
 function Colors7weekDays(d) {
-  return ["#BF360C", // index 0=7
+  return [
+  "#BF360C", // index 0=7
   "#CFD8DC",
   "#FFF9C4",
   "#FFEE58",
@@ -9,6 +10,19 @@ function Colors7weekDays(d) {
   "#558B2F",
   "#FF6D00",
   "#BF360C"
+  ][d];
+}
+
+function Colors7weekDaysGrey(d) {
+  return [
+  "#E64A19",// index 0=7
+  "#FAFAFA",//1
+  "#F5F5F5",
+  "#FFF59D",//3
+  "#EEEEEE",
+  "#E0E0E0",
+  "#FF5722",//7
+  "#E64A19"
   ][d];
 }
 
