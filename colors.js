@@ -32,7 +32,7 @@ function ColorsVaterDrink(d) {
   "#BF360C",
   "#FF6F00",
   "#FFECB3",
-  "#9E9E9E",
+  "#E0E0E0",
   "#B3E5FC",
   "#4FC3F7",
   "#2962FF"
