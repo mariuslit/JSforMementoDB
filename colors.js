@@ -35,6 +35,7 @@ function ColorsVaterDrink(d) {
   "#EEEEEE", // 4 norma
   "#B3E5FC",
   "#4FC3F7",
+  "#0277BD",
   "#2962FF"
   ][d];
 }
