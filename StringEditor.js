@@ -94,17 +94,6 @@ function getItemTestMemory(x) {
 	return ArrTestMemory()[x];
 }
 
-function ArrTestMemory() {
-	return [
-{vrd:"Vilija", tel:"1"},
-{vrd:"Aidas", tel:"2"},
-{vrd:"Indrė", tel:"3"},
-{vrd:"Marius", tel:"4"},
-{vrd:"Mama", tel:"5"},
-{vrd:"Kristina", tel:"6"},
-{vrd:"Skirmantas", tel:"7"},
-{vrd:"Kitas", tel:"8"}
-]}
 /*
 console.log(MenesiuZodziuTrump(6))
 */
