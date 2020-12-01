@@ -28,7 +28,7 @@ function Colors7weekDaysGrey(d) {
 
 function ColorsVaterDrink(d) {
   return [
-  "#ffffff", // index 0=7
+  "#ffffff", // 0
   "#BF360C",
   "#FF6F00",
   "#FFECB3",
@@ -42,14 +42,14 @@ function ColorsVaterDrink(d) {
 
 function ColorsGoodBad(x) {
   return [
-  "#ffffff", // non
-  "#FF3D00", // bed red
+  "#ffffff", // non white
+  "#FF3D00", // -3 bed red
   "#FF6E40",
   "#FF9E80",
-  "#BDBDBD", // neutral grey
+  "#BDBDBD", // 0 neutral grey
   "#CCFF90",
   "#B2FF59",
-  "#76FF03" // good green
+  "#64DD17" // +3 good green
   ][x];
 }
 
