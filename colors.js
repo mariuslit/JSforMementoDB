@@ -53,3 +53,21 @@ function ColorsGoodBad(x) {
   ][x];
 }
 
+function Colors12(x) {
+  return [
+				"#FF0000", // [0] gruodis
+				"#0000FF", // [1] sausis
+				"#00FAFF",
+				"#9D85E0",
+				"#489388",
+				"#9CFFAA",
+				"#00FF00",
+				"#EBFF00",
+				"#FF8100",
+				"#CCBB58",
+				"#7F7F7F",
+				"#7F4900",
+				"#FF0000"  // [12] gruodis
+  ][x];
+}
+
