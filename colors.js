@@ -41,16 +41,15 @@ function ColorsVaterDrink(d) {
 }
 
 function ColorsGoodBad(x) {
-  return [
-  "#ffffff", // non white
-  "#FF3D00", // -3 bed red
-  "#FF6E40",
-  "#FF9E80",
-  "#BDBDBD", // 0 neutral grey
-  "#CCFF90",
-  "#B2FF59",
-  "#64DD17" // +3 good green
-  ][x];
+  return ["AEFF51",
+				"#FFBCA7", // red
+				"#FFDCD0",
+				"#FFF3EF",
+				"#FFFFFF", // neutrali
+				"#F3FFE5",
+				"#CDFF93",
+				"#AEFF51"  // green
+    ][x]
 }
 
 function Colors12(x) {
