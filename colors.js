@@ -49,7 +49,7 @@ function ColorsGoodBad(x) {
 				"#F3FFE5",
 				"#CDFF93",
 				"#AEFF51"  // green
-    ][x]
+    ][x];
 }
 
 function Colors12(x) {
