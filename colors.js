@@ -6,8 +6,8 @@ function Colors7weekDays(d) {
   "#CFD8DC",
   "#FFF9C4",
   "#FFEE58",
-  "#F0F9FE",//#9CCC65"
-  "#E9F8FF",//#558B2F",
+  "#9CCC65",
+  "#558B2F",
   "#FF6D00",
   "#BF360C"
   ][d];
@@ -19,8 +19,8 @@ function Colors7weekDaysGrey(d) {
   "#FAFAFA",//1
   "#EEEEEE",
   "#FFF59D",//3
-  "#E0E0E0",
-  "#BDBDBD",
+  "#F0F9FE",//"#E0E0E0",
+  "#F0F9FE",//"#BDBDBD",
   "#FF5722",//6
   "#E64A19"
   ][d];
