@@ -6,7 +6,7 @@ function Colors7weekDays(d) {
   "#CFD8DC",
   "#FFF9C4",
   "#FFEE58",
-  "#9CCC65",
+  "#9CCC65",//
   "#558B2F",
   "#FF6D00",
   "#BF360C"
