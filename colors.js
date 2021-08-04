@@ -17,10 +17,10 @@ function Colors7weekDaysGrey(d) {
   return [
   "#E64A19",// index 0=7
   "#FAFAFA",//1
-  "#D9D9D9",//EEEEEE
+  "#E8E8E8",//2EEEEEE
   "#FFF59D",//3
-  "#F0F9FE",//"#E0E0E0",
-  "#E0F5FF",//"#BDBDBD",
+  "#F0F9FE",//4"#E0E0E0",
+  "#DAF3FF",//5"#BDBDBD",
   "#FF5722",//6
   "#E64A19"
   ][d];
