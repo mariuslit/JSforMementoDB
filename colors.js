@@ -20,7 +20,7 @@ function Colors7weekDaysGrey(d) {
   "#EEEEEE",
   "#FFF59D",//3
   "#F0F9FE",//"#E0E0E0",
-  "#E9F8FF",//"#BDBDBD",
+  "#E3F6FF",//"#BDBDBD",
   "#FF5722",//6
   "#E64A19"
   ][d];
